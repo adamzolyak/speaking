@@ -27,7 +27,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 ## Selected Writing History
 
-**"Why I Use GitHub As a Product Manager"** - [Blog](https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/).
+**["Why I Use GitHub As a Product Manager"](https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/)**
 
 **Continuous Delivery Blog Series**
 * ["Continuous Delivery Will Make or Break Your Product"](https://www.linkedin.com/pulse/dear-product-manager-continuous-delivery-make-break-your-adam-zolyak/)
@@ -35,7 +35,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 * ["5 Principles to Supercharge Continuous Delivery"](https://www.ca.com/en/blog-agile-central/5-principles-to-supercharge-continuous-delivery.html)
 * ["Keeping The Continuous in Continuous Delivery"](https://www.linkedin.com/pulse/keeping-continuous-delivery-adam-zolyak/)
 
-**“9 Ways to Get the Most Out of Your Pull Requests”** - [Blog](https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003).
+**[“9 Ways to Get the Most Out of Your Pull Requests”](https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003)**
 
 ## Selected Hackathons and Coding Projects
 
