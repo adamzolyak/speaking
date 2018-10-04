@@ -6,11 +6,21 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 ## Speaking and Writing History
 Frequent speaker and blogger.  Presented 10x talks and workshops in the past 3x years at a variety of conferences with audiences up to 500.  See below for slides, videos, and attendees ratings and feedback.
 
+### Continuous Delivery Blog Series
+* ["Continuous Delivery Will Make or Break Your Product"](https://www.linkedin.com/pulse/dear-product-manager-continuous-delivery-make-break-your-adam-zolyak/)
+* ["A Fantastic Voyage Along The Continuous Delivery Pipeline"](https://www.linkedin.com/pulse/fantastic-voyage-along-continuous-delivery-pipeline-adam-zolyak/)
+* ["5 Principles to Supercharge Continuous Delivery"](https://www.ca.com/en/blog-agile-central/5-principles-to-supercharge-continuous-delivery.html)
+* ["Keeping The Continuous in Continuous Delivery"](https://www.linkedin.com/pulse/keeping-continuous-delivery-adam-zolyak/)
+
+### "Why I Use GitHub As a Product Manager"
+* Blog https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/
+
 ### “To Pull Request or Not To Pull Request?”
 * 5 Minute Ignite - DevOpsDays Rockies 2018 
-* Video https://www.youtube.com/watch?v=_kkf2B8Cwis&feature=youtu.be&t=46m48s
-* Slides https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311 
+* [Video](https://www.youtube.com/watch?v=_kkf2B8Cwis&feature=youtu.be&t=46m48s) 
+* [Slides](https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311)
 * Rated 4 out of 5 by attendees
+* Also presented at DevOpsDays PDX 2018
 
 ### “9 Ways to Get the Most Out of Your Pull Requests”
 * Blog 2018 https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003 
