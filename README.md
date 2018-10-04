@@ -9,6 +9,8 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 **“To Pull Request or Not To Pull Request?”** - 5 Minute Ignite presented @ DevOpsDays Rockies 2018.  [Slides](https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311). [Video](https://www.youtube.com/watch?v=_kkf2B8Cwis&feature=youtu.be&t=46m48s). Rated 4 out of 5 by attendees. Also presented at DevOpsDays PDX 2018.
 
+**"What Would a Kanban Board Look Like Reimaged for Developers?"** - 5 Minute Ignite presented @ Agile 2018. [Slides](https://www.slideshare.net/adamzolyak/kanban-boards-reimagined-for-developers-devops)
+
 **“Dear Product Manager, Continuous Delivery Will Make or Break Your Product”** - Presented @ Denver Startup Week 2017. [Slides](https://www.slideshare.net/adamzolyak/continuous-delivery-will-make-or-break-your-product).
 
 **“Can Haz More Splunk Foo Workshop - Answering Questions with Splunk”** - Workshop @ Agile Central Developers Conference 2017
