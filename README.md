@@ -23,6 +23,8 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 **“Let’s ChatOps - Using a Chatbot for Operations at Scale”** - 5 Minute Ignite presented @ DevOpsDays Rockies 2016. [Slides](https://www.slideshare.net/adamzolyak/hello-im-jarvis-lets-chatops). [Video](http://confreaks.tv/videos/devopsdaysrox2016-hello-i-m-jarvis-let-s-chatops). Rated 4 out of 5 by attendees.
 
+**"Dont' Do Agile, Be Agile"** - Presented @ Possible Mobile 2015. [Slides](https://www.slideshare.net/adamzolyak/dont-do-agile-be-agile-37509916)
+
 **“Practices for Supercharging Teams”** - Presented @ iDev 360 2015. [Slides](https://www.slideshare.net/adamzolyak/welcome-to-the-team-practices-for-supercharging-teams). [Video](https://vimeopro.com/360conferences/360idev-2015/video/137547563). Rated 4.6 out of 5 by attendees.  
 
 ## Selected Writing History
