@@ -6,9 +6,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 ## Selected Speaking History
 Frequent speaker.  Presented 10x talks and workshops in the past 3x years at a variety of conferences with audiences up to 500.  See below for slides, videos, and attendees ratings and feedback.
 
-### "The Maker's Guide to Focusing and Getting Shit Done!"
-Prestented @ Denver Startup Week 2018. [Slides](https://www.slideshare.net/adamzolyak/the-makers-guide-to-staying-focused-and-getting-shit-done).
-
+**"The Maker's Guide to Focusing and Getting Shit Done!"** - Prestented @ Denver Startup Week 2018. [Slides](https://www.slideshare.net/adamzolyak/the-makers-guide-to-staying-focused-and-getting-shit-done).
 
 ### “To Pull Request or Not To Pull Request?”
 5 Minute Ignite presented @ DevOpsDays Rockies 2018.  [Video](https://www.youtube.com/watch?v=_kkf2B8Cwis&feature=youtu.be&t=46m48s).[Slides](https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311). Rated 4 out of 5 by attendees. Also presented at DevOpsDays PDX 2018.
