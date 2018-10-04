@@ -29,7 +29,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 **"Why I Use GitHub As a Product Manager"** - [Blog](https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/).
 
-### Continuous Delivery Blog Series
+**Continuous Delivery Blog Series**
 * ["Continuous Delivery Will Make or Break Your Product"](https://www.linkedin.com/pulse/dear-product-manager-continuous-delivery-make-break-your-adam-zolyak/)
 * ["A Fantastic Voyage Along The Continuous Delivery Pipeline"](https://www.linkedin.com/pulse/fantastic-voyage-along-continuous-delivery-pipeline-adam-zolyak/)
 * ["5 Principles to Supercharge Continuous Delivery"](https://www.ca.com/en/blog-agile-central/5-principles-to-supercharge-continuous-delivery.html)
