@@ -51,6 +51,6 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 ## Additional Information
 
-**Personal Projects and Writing** - http://www.tinkurlab.com/
+**Personal Projects** - http://www.tinkurlab.com/ (hacking, software + hardware, 3D printiner, Arduino)
 
 **Additional Writing and Blog Posts** - https://www.linkedin.com/in/azolyak/ - see publications and writing
