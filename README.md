@@ -1,10 +1,9 @@
 # Adam Zolyak's Speaking Experience
 
 ## Speaker Bio
-Adam Zolyak is passionate about enabling better ways of working that provide more valuable outcomes and more sustainability for the people doing the work.  Adam pursues this passion through speaking, writing, workshops, and hackathons.  Adam is currently a Developer Advocate for Waffle.io which helps developers automate their project status updates and stay aligned with their team.  Adam is also extra excited about ChatOps, ChatBots, and combining software + hardware.
+Adam Zolyak is passionate about enabling better ways of working that provide more valuable outcomes and more sustainability for the people doing the work.  Adam pursues this passion through speaking, writing, workshops, and hackathons.  Adam is currently a Developer Advocate for Waffle.io which helps developers to have more time and focus for meaningful work.  Adam is also extra excited about ChatOps, ChatBots, and combining software + hardware.
 
 ## Selected Speaking History
-Frequent speaker.  Presented 10x talks and workshops in the past 3x years at a variety of conferences with audiences up to 500.  See below for slides, videos, and attendees ratings and feedback.
 
 **"The Maker's Guide to Focusing and Getting Shit Done!"** - Prestented @ Denver Startup Week 2018. [Slides](https://www.slideshare.net/adamzolyak/the-makers-guide-to-staying-focused-and-getting-shit-done).
 
@@ -28,8 +27,7 @@ Frequent speaker.  Presented 10x talks and workshops in the past 3x years at a v
 
 ## Selected Writing History
 
-### "Why I Use GitHub As a Product Manager"
-* Blog https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/
+**"Why I Use GitHub As a Product Manager"** - [Blog](https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/).
 
 ### Continuous Delivery Blog Series
 * ["Continuous Delivery Will Make or Break Your Product"](https://www.linkedin.com/pulse/dear-product-manager-continuous-delivery-make-break-your-adam-zolyak/)
@@ -37,25 +35,18 @@ Frequent speaker.  Presented 10x talks and workshops in the past 3x years at a v
 * ["5 Principles to Supercharge Continuous Delivery"](https://www.ca.com/en/blog-agile-central/5-principles-to-supercharge-continuous-delivery.html)
 * ["Keeping The Continuous in Continuous Delivery"](https://www.linkedin.com/pulse/keeping-continuous-delivery-adam-zolyak/)
 
-### “9 Ways to Get the Most Out of Your Pull Requests”
-* Blog 2018 https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003 
+**“9 Ways to Get the Most Out of Your Pull Requests”** - [Blog](https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003).
 
 ## Selected Hackathons and Coding Projects
 
-#### Every Idea Needs A... ?
-Demo of my hackathon to create an interactive LED display that allows people to add and remove words to a public wall art installation.  http://www.tinkurlab.com/2017/06/every-idea-needs-a-hackathon/
+**Every Idea Needs A... ?** - [Hackathon to create an interactive LED display](http://www.tinkurlab.com/2017/06/every-idea-needs-a-hackathon/) that allows people to add and remove words to a public wall art installation.  
 
-#### Chatbot Pull Request Bumper
-Demo of my hackathon to create a Pull Request bumper for Hubot that shows open GitHub Pull Requests that were mentioned in a team’s chat flow. http://www.tinkurlab.com/2017/04/chatbot-pull-request-bumper/
+**Chatbot Pull Request Bumper** - [Hackathon to create a Pull Request bumper for Hubot](http://www.tinkurlab.com/2017/04/chatbot-pull-request-bumper/) that shows open GitHub Pull Requests that were mentioned in a team’s chat flow. 
 
-#### Chatbot Out of Office
-Demo of my hackathon to create an Out of Office for Hubot that lets people know when you’re out of the office or busy.
-http://www.tinkurlab.com/2016/10/chatbot-out-of-office/
+**Chatbot Out of Office** - [Hackathon to create an Out of Office for Hubot](http://www.tinkurlab.com/2016/10/chatbot-out-of-office/) that lets people know when you’re out of the office or busy.
 
-### Additional Information
+## Additional Information
 
-#### Personal Projects and Writing
-http://www.tinkurlab.com/
+**Personal Projects and Writing** - http://www.tinkurlab.com/
 
-### Additional Writing and Blog Posts  
-https://www.linkedin.com/in/azolyak/ - see publications and writing
+**Additional Writing and Blog Posts** - https://www.linkedin.com/in/azolyak/ - see publications and writing
