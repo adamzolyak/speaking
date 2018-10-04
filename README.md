@@ -3,17 +3,11 @@
 ## Speaker Bio
 Adam Zolyak is passionate about enabling better ways of working that provide more valuable outcomes and more sustainability for the people doing the work.  Adam pursues this passion through speaking, writing, workshops, and hackathons.  Adam is currently a Developer Advocate for Waffle.io which helps developers automate their project status updates and stay aligned with their team.  Adam is also extra excited about ChatOps, ChatBots, and combining software + hardware.
 
-## Speaking and Writing History
-Frequent speaker and blogger.  Presented 10x talks and workshops in the past 3x years at a variety of conferences with audiences up to 500.  See below for slides, videos, and attendees ratings and feedback.
+## Selected Speaking History
+Frequent speaker.  Presented 10x talks and workshops in the past 3x years at a variety of conferences with audiences up to 500.  See below for slides, videos, and attendees ratings and feedback.
 
-### Continuous Delivery Blog Series
-* ["Continuous Delivery Will Make or Break Your Product"](https://www.linkedin.com/pulse/dear-product-manager-continuous-delivery-make-break-your-adam-zolyak/)
-* ["A Fantastic Voyage Along The Continuous Delivery Pipeline"](https://www.linkedin.com/pulse/fantastic-voyage-along-continuous-delivery-pipeline-adam-zolyak/)
-* ["5 Principles to Supercharge Continuous Delivery"](https://www.ca.com/en/blog-agile-central/5-principles-to-supercharge-continuous-delivery.html)
-* ["Keeping The Continuous in Continuous Delivery"](https://www.linkedin.com/pulse/keeping-continuous-delivery-adam-zolyak/)
+### "The Maker's Guide to Focusing and Getting Shit Done!"
 
-### "Why I Use GitHub As a Product Manager"
-* Blog https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/
 
 ### “To Pull Request or Not To Pull Request?”
 * 5 Minute Ignite - DevOpsDays Rockies 2018 
@@ -21,9 +15,6 @@ Frequent speaker and blogger.  Presented 10x talks and workshops in the past 3x 
 * [Slides](https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311)
 * Rated 4 out of 5 by attendees
 * Also presented at DevOpsDays PDX 2018
-
-### “9 Ways to Get the Most Out of Your Pull Requests”
-* Blog 2018 https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003 
 
 ### “Dear Product Manager, Continuous Delivery Will Make or Break Your Product”
 * Denver Startup Week 2017 
@@ -63,7 +54,21 @@ Frequent speaker and blogger.  Presented 10x talks and workshops in the past 3x 
 * Rated 4.6 out of 5 by attendees.  
 * Comments “I enjoyed hearing your thoughts on developer happiness and engagement” “Lots of great ideas I'll be bringing back with me!”.
 
-### Hackathons and Coding Projects
+## Selected Writing History
+
+### "Why I Use GitHub As a Product Manager"
+* Blog https://www.linkedin.com/pulse/why-i-use-github-product-manager-adam-zolyak/
+
+### Continuous Delivery Blog Series
+* ["Continuous Delivery Will Make or Break Your Product"](https://www.linkedin.com/pulse/dear-product-manager-continuous-delivery-make-break-your-adam-zolyak/)
+* ["A Fantastic Voyage Along The Continuous Delivery Pipeline"](https://www.linkedin.com/pulse/fantastic-voyage-along-continuous-delivery-pipeline-adam-zolyak/)
+* ["5 Principles to Supercharge Continuous Delivery"](https://www.ca.com/en/blog-agile-central/5-principles-to-supercharge-continuous-delivery.html)
+* ["Keeping The Continuous in Continuous Delivery"](https://www.linkedin.com/pulse/keeping-continuous-delivery-adam-zolyak/)
+
+### “9 Ways to Get the Most Out of Your Pull Requests”
+* Blog 2018 https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003 
+
+## Selected Hackathons and Coding Projects
 
 #### Every Idea Needs A... ?
 Demo of my hackathon to create an interactive LED display that allows people to add and remove words to a public wall art installation.  http://www.tinkurlab.com/2017/06/every-idea-needs-a-hackathon/
