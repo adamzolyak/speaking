@@ -9,7 +9,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 **"The Maker's Guide to Focusing and Getting Shit Done!"** - Prestented @ Denver Startup Week 2018. [Slides](https://www.slideshare.net/adamzolyak/the-makers-guide-to-staying-focused-and-getting-shit-done).
 
-**“To Pull Request or Not To Pull Request?”** - 5 Minute Ignite presented @ DevOpsDays Rockies 2018.  [Slides](https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311). [Video](https://www.youtube.com/watch?v=_kkf2B8Cwis&feature=youtu.be&t=46m48s). Rated 4 out of 5 by attendees. Also presented at DevOpsDays PDX 2018.
+**“To Pull Request or Not To Pull Request?”** - 5 Minute Ignite presented @ DevOpsDays Rockies 2018.  [Slides](https://www.slideshare.net/adamzolyak/to-pull-request-or-not-to-pull-request-94818311). [Video](https://www.youtube.com/watch?v=_kkf2B8Cwis&feature=youtu.be&t=46m48s). Rated 4 out of 5 by attendees. Also presented at DevOpsDays PDX 2018. [Video](https://www.youtube.com/watch?v=u-OiFQWcJXg&feature=youtu.be)
 
 **"What Would a Kanban Board Look Like Reimaged for Developers?"** - 5 Minute Ignite presented @ Agile 2018. [Slides](https://www.slideshare.net/adamzolyak/kanban-boards-reimagined-for-developers-devops)
 
@@ -19,7 +19,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 **“Meet Your New Team Member! Your Chatbot!”** - 5 Minute Ignite presented @ Agile 2017. [Slides](https://www.slideshare.net/adamzolyak/agile-2017-so-whats-it-like-to-work-with-a-chatbot)
 
-**“Playing Games at Work to Decide What to Do Next”** - 5 Minute Ignite presented @ DevOpsDays Rockies 2017.
+**“Playing Games at Work to Decide What to Do Next”** - 5 Minute Ignite presented @ DevOpsDays Rockies 2017. [Video](https://www.youtube.com/watch?v=s-yzih0eZ7s)
 
 **“Chatbot Workshop - How to Get Started With Jarvis (Our Chatbot)”** - Workship @ Agile Central Developers Conference 2016. Rated 4.3 out of 5 by attendees.
 
