@@ -43,7 +43,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 **[“9 Ways to Get the Most Out of Your Pull Requests”](https://blog.waffle.io/9-ways-to-get-the-most-out-of-your-pull-requests-8fa26b72b003)**
 
-**["Why Iterate?"](https://possiblemobile.com/2015/01/iterate/)
+**["Why Iterate?"](https://possiblemobile.com/2015/01/iterate/)**
 
 ## Selected Hackathons and Coding Projects
 
