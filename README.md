@@ -5,7 +5,7 @@ Adam Zolyak is passionate about enabling better ways of working that provide mor
 
 ## Selected Speaking History
 
-**Leading With Questions** - Presented at Rocky Mountain Product Camp - Fall 2018. [Slides](https://www.slideshare.net/adamzolyak/leading-with-questions-233493421)
+**"Leading With Questions"** - Presented at Rocky Mountain Product Camp - Fall 2018. [Slides](https://www.slideshare.net/adamzolyak/leading-with-questions-233493421)
 
 **"Finding More Time for Focus and Meaningful Work with Waffle.io"** - Presented @ GitHub Universe 2018. [Video](https://www.youtube.com/watch?v=waOF98Ls_VA&list=PL0lo9MOBetEHcBuuHt6D1mx9kwmSK1y50&index=5)
 
